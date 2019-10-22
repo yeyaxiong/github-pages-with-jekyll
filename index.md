@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+这是blog得首页，是第一次通过github创建得blog。
